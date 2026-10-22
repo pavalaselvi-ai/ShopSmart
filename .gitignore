@@ -29,3 +29,5 @@ Thumbs.db
 
 # Logs
 *.log
+data/HIGH_RES_PRODUCT_IMAGES.parquet
+data/YOUR_IMAGE_DATASET.parquet
